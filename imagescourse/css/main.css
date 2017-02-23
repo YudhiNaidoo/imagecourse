@@ -13,17 +13,17 @@ I've left some boilerplate below for you.
 */
 
 body {
-
+font-size: 100%;
 }
 
 article {
-
+ width: 50em;
 }
 
 h1 {
-
+ font-size: 2em;
 }
 
 img {
-
+ max-width: 100%;
 }
